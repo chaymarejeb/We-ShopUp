@@ -1,2 +1,3 @@
 # We-ShopUp
- this is an e-commerce 
+ this is an e-commerce web app
+ 
